@@ -8,27 +8,27 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Eric Ji
+    tagline: Computer Science Senior at Cornell University
+    avatar: headshot12.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: ericji300@gmail.com
+    phone: 614 705 3000
+    timezone: Eastern Time Zone
     citizenship:
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    linkedin:
+    xing:
+    github: ej4592
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
@@ -36,22 +36,22 @@ sidebar:
         - idiom: English
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: Chinese
+          level: Proficient
 
         - idiom: Spanish
-          level: Professional
+          level: Proficient
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Brazilian Jiu Jitsu
           link:
 
-        - item: Snowboarding
+        - item: Reading
           link:
 
-        - item: Cooking
+        - item: Board Games
           link:
 
 career-profile:
