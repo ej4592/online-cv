@@ -69,7 +69,8 @@ education:
       - degree: M. Eng in Computer Science
         university: Cornell University
         time: exp 2024
-        details: Parallel Computing, Computer Vision, Numerical Analysis, Networks, Big Data Technologies-
+        details: | 
+         Parallel Computing, Computer Vision, Numerical Analysis, Networks, Big Data Technologies-
 
       - degree: BA in Computer Science and Mathematics
         university: Cornell University
