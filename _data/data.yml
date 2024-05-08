@@ -17,8 +17,8 @@ sidebar:
     phone: 614 705 3000
     timezone: Eastern Time Zone
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin:
+    website: #blog.webjeda.com #do not add http://
+    linkedin: eric-ji-0287721b7
     xing:
     github: ej4592
     telegram: # add your nickname without '@' sign
@@ -58,7 +58,8 @@ career-profile:
     title: Masters of Engineering Student @ Cornell University
     summary: |
       I am computer science student pursuing a masters of engineering at Cornell.
-      I 
+      I am passionate about machine learning particularly it's intersection with biology and chemistry.
+      Currently looking for full time employment following graduation.
 education:
     title: Education
     info:
@@ -88,11 +89,6 @@ experiences:
         time: May. 2022 - Aug. 2022
         company: Converge Technologies
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
             - Collaborated with Senior Developers, fellow interns, and the City of Hilliard to prototype a cart used to detect whether sidewalks are compliant with the American with Disabilities Act
             - Developed firmware for rotary encoder and calibration of UbiHere Tag within the cart to track GPS and orientation data
             -Used Esri GIS software to model sidewalk hotspots created from data collected on ADA cart
@@ -107,92 +103,83 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
     assignments:
-      - title: Velocity
+      - title: Parallel Particle Simulation
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Developed and optimized parallel implementations of a particle simulation on the CPU, GPU, and distributed memory. Utilized OpenMP, CUDA, MPI, and  Benchmarked programs on the Perlmutter HPC system"
 
-      - title: DevStudio
+      - title: Critter World
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Created a simulation with “critters”, each with its own characteristics, instructions, and mutations, adhering to the MVC design pattern. Implemented different front ends, including direct print to console, GUI using JavaFX, and a client using HTTP. Implemented parsing, storing, and interpreting instructions using abstract syntax trees"
 
-      - title: Tempo
+      - title: Game Solver
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Built SAT-solver based on DPLL algorithm. Programmed logic of Sudoku and Minesweeper into an SAT problem to subsequently find a solution for each game"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Languages; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Java, C++, C
+        level: 88%
 
-      - name: Angular
-        level: 98%
+      - name: Ocaml, Matlab, Verilog, JS
+        level: 75%
+
+      - name: Pytorch, Numpy, SQL
+        level: 80%
+
+      - name: Docker, Git, Shell, Latex
+        level: 75%
 
       - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
