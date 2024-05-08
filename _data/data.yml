@@ -66,28 +66,17 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: M. Eng in Computer Science
+        university: Cornell University
+        time: exp 2024
+        details: Parallel Computing, Computer Vision, Numerical Analysis, Networks, Big Data Technologies-
+
+      - degree: BA in Computer Science and Mathematics
+        university: Cornell University
+        time: 2020-2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Deans list 7x. Double Minor in Applied Economics and Computer Engineering
+            - Algorithms and Data Structures, Operating Systems, Distributed Systems, Machine Learning, Reinforcement Learning, Computer Architecture, Databases, Computational Genomics, Functional Programming, Program Synthesis
 
 experiences:
     title: Experiences
